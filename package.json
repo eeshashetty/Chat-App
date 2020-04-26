@@ -1,0 +1,29 @@
+{
+  "name": "Chat-App",
+  "version": "1.0.0",
+  "description": "Chat App from NodeJS Course (using Socket IO)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeshashetty/Chat-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eeshashetty/Chat-App/issues"
+  },
+  "homepage": "https://github.com/eeshashetty/Chat-App#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
