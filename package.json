@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/eeshashetty/Chat-App#readme",
   "devDependencies": {
+    "env-cmd": "^10.1.0",
     "nodemon": "^2.0.3"
   },
   "dependencies": {
